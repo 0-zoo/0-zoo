@@ -52,6 +52,10 @@
 
 ### 🎬 Projects
 
+#### 🧴 [니모내모(TABA)](https://github.com/TABA-4th)
+> AI로 두피를 분석하고, 맞춤형 케어를 제안하는 스마트 두피 메이트  
+📷 이미지 기반 두피 분석 · 🤖 AI 제품 추천 · 📊 또래 비교 시각화 · 🗓️ 루틴 캘린더 자동 기록
+
 #### 🧸 [SafeChild](https://github.com/0-zoo/SafeChild)
 > 차량 내 아동 생존을 위한 스마트 카시트  
 🪑 착석 감지 · 🎥 AI 자세 분석 · 🌡️ 온도 감시 · 🔔 FCM 알림
@@ -59,10 +63,6 @@
 #### 🧭 [FallAlertMap](https://github.com/0-zoo/FallAlertMap)
 > 낙상 위험 지역 실시간 알림 시스템  
 📍 지도 기반 위치 전송 · 🤸‍♀️ 시계열 AI 모델 적용 · 📡 실시간 백엔드 연동
-
-#### 👁 [EYEPATH](https://github.com/EYEPATH-EMBEDDED)
-> 시각 장애인을 위한 충돌 예측 내비게이션  
-🧠 YOLO + ConvLSTM · 📲 React Native 앱 · 🛰️ 온디바이스 모델 내장
 
 ---
 
