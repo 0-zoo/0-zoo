@@ -13,9 +13,9 @@
 
 ---
 
-🌿 안녕하세요,  
-관찰하고 기록하며 사람을 도울 수 있는 기술을 고민하는 개발자 **이영주**입니다.  
-혼자 오래 생각하기보다는, 함께 부딪히고 실험하며 배워가는 과정이 즐겁습니다.  
+🌱 I'm a developer who loves building **AIoT systems**, exploring **cloud-native architecture**, and improving **user experiences** through thoughtful backend design.  
+👀 I’m currently interested in **on-device AI**, **real-time monitoring systems**, and **DevOps automation**.  
+📌 I enjoy prototyping smart devices that actually help people. 
 
 - 📍 전공과 관심: **AIoT**, **클라우드 인프라**
 - 📓 평소엔 Velog에 프로젝트를 정리하고, 기억을 남깁니다.
@@ -24,21 +24,30 @@
 
 ### 🔧 What I Use
 
-**📱 Android & IoT**  
-`Java` `Kotlin` `Android Studio` `Firebase` `Raspberry Pi` `WebView` `Sensor Fusion`
+**📱 Android & Embedded**  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-**💡 AI & Machine Learning**  
-`TensorFlow Lite` `ConvLSTM` `YOLOv11` `시계열 이상탐지` `On-device AI`
+**🧠 AI & ML**  
+![TFLite](https://img.shields.io/badge/TFLite-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white)
+![ConvLSTM](https://img.shields.io/badge/ConvLSTM-FF6F00?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLOvX-00BFFF?style=for-the-badge)
 
 **☁️ Cloud & Infra**  
-`Docker` `Kubernetes` `Firebase Cloud Messaging` `AWS` `Firebase Realtime DB`
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-**🛠️ Backend & DB**  
-`FastAPI` `Spring Boot` `MySQL` `Redis` `FCM` `RESTful API`
+**🛠️ Backend**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
-### 🎬 Side Projects
+### 🎬 Projects
 
 #### 🧸 [SafeChild](https://github.com/0-zoo/SafeChild)
 > 차량 내 아동 생존을 위한 스마트 카시트  
@@ -61,6 +70,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-zoo&layout=compact&theme=vue" />
 </p>
 
+![Youngju's GitHub stats](https://github-readme-stats.vercel.app/api?username=0-zoo&show_icons=true&theme=default&hide=stars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0-zoo&layout=compact)
 
 ---
 
