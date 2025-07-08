@@ -12,10 +12,12 @@
 </p>
 
 ---
-
-🌱 I'm a developer who loves building **AIoT systems**, exploring **cloud-native architecture**, and improving **user experiences** through thoughtful backend design.  
+<p align="center">
+  🌱 I'm a developer who loves building **AIoT systems**, exploring **cloud-native architecture**, and improving **user experiences** through thoughtful backend design.  
 👀 I’m currently interested in **on-device AI**, **real-time monitoring systems**, and **DevOps automation**.  
 📌 I enjoy prototyping smart devices that actually help people. 
+</p>
+
 
 - 📍 전공과 관심: **AIoT**, **클라우드 인프라**
 - 📓 평소엔 Velog에 프로젝트를 정리하고, 기억을 남깁니다.
@@ -69,9 +71,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=0-zoo&show_icons=true&theme=vue&hide_title=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-zoo&layout=compact&theme=vue" />
 </p>
-
-![Youngju's GitHub stats](https://github-readme-stats.vercel.app/api?username=0-zoo&show_icons=true&theme=default&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0-zoo&layout=compact)
 
 ---
 
