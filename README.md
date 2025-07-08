@@ -14,7 +14,9 @@
 ---
 
 🌱 AIoT 시스템을 만들고, 클라우드 아키텍처를 탐구하며, 사용자 경험을 고민하는 백엔드 개발자입니다.
+
 👀 최근에는 온디바이스 AI, 실시간 모니터링, DevOps 자동화에 관심이 많습니다.
+
 📌 I enjoy prototyping smart devices that actually help people. 
 
 
