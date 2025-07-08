@@ -13,7 +13,7 @@
 
 ---
 
-🌱 AIoT 시스템을 만들고, 클라우드 아키텍처를 탐구하며, 사용자 경험을 고민하는 백엔드 개발자입니다.
+🌱 클라우드 아키텍처를 탐구하며, 사용자 경험을 고민하는 백엔드 개발자입니다.
 
 👀 최근에는 클라우드 엔지니어링에 관심이 많습니다.
 
@@ -52,15 +52,15 @@
 
 ### 🎬 Key Projects
 
-#### 🧴 [니모내모 (TABA)](https://github.com/0-zoo/TABA)
+#### 🧴 [니모내모 (TABA)](https://github.com/)
 > AI로 두피를 분석하고, 맞춤형 케어를 제안하는 스마트 두피 메이트  
 📷 이미지 기반 두피 분석 · 🤖 AI 제품 추천 · 📊 또래 비교 시각화 · 🗓️ 루틴 캘린더 자동 기록
 
-#### 🧸 [SafeChild](https://github.com/0-zoo/SafeChild)
+#### 🧸 [SafeChild](https://github.com/)
 > 차량 내 아동 생존을 위한 스마트 카시트  
 🪑 착석 감지 · 🎥 AI 자세 분석 · 🌡️ 온도 감시 · 🔔 FCM 알림
 
-#### 🧭 [FallAlertMap](https://github.com/0-zoo/FallAlertMap)
+#### 🧭 [FallAlertMap](https://github.com/)
 > 낙상 위험 지도 구축  실시간 알림 시스템  
 📍 지도 기반 위치 전송 · 🤸‍♀️ 시계열 AI 모델 적용 · 📡 실시간 백엔드 연동
 ---
