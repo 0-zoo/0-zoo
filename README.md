@@ -52,14 +52,28 @@
 
 ### 🎬 Key Projects
 
-#### 🧴 [니모내모(TABA)](https://github.com/TABA-4th)
+#### 🧴 [니모내모 (TABA)](https://github.com/0-zoo/TABA)
 > AI로 두피를 분석하고, 맞춤형 케어를 제안하는 스마트 두피 메이트  
 📷 이미지 기반 두피 분석 · 🤖 AI 제품 추천 · 📊 또래 비교 시각화 · 🗓️ 루틴 캘린더 자동 기록
 
-#### 🧸 [SafeChild](ht한 두피 상태 진단 및 맞춤 제품 추천 시스템 |
-| **우수상**<br/>분리수거 리워드 시스템 **‘SaveEarth’** | Zerotone Hackathon | 단국대학교 SW융합대학 |재활용 감지 AI + 분리수거함 인식 AI + 지도 기반 시각화 앱 개발 |
+#### 🧸 [SafeChild](https://github.com/0-zoo/SafeChild)
+> 차량 내 아동 생존을 위한 스마트 카시트  
+🪑 착석 감지 · 🎥 AI 자세 분석 · 🌡️ 온도 감시 · 🔔 FCM 알림
 
+#### 🧭 [FallAlertMap](https://github.com/0-zoo/FallAlertMap)
+> 낙상 위험 지도 구축  실시간 알림 시스템  
+📍 지도 기반 위치 전송 · 🤸‍♀️ 시계열 AI 모델 적용 · 📡 실시간 백엔드 연동
+---
 
+### 🏆 Awards
+
+| 🎯 대회명                                   | 🏅 수상명 | 🏛️ 주최기관           | 📝 설명 |
+|--------------------------------------------|-----------|------------------------|---------|
+| **Cisco Innovation Challenge**             | **우승**  | Cisco Korea            | 클라우드 기반 응급 대응 시스템 및 IoT 데이터 EMR/PACS 연동 프로토타입 구현 |
+| **Tmax AI·빅데이터 아카데미 프로젝트 경진대회** | **우수상** | Tmax Tibero            | 이미지 기반 두피 분석 + AI 제품 추천 서비스 ‘니모내모’ 개발 |
+| **Zerotone 해커톤**                        | **우수상** | 단국대학교 SW융합대학 | 분리수거 인식 AI + 데이터 기반 지도 시각화 서비스 개발 |
+
+---
 ### 📸 GitHub Record
 
 <p align="center">
