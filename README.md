@@ -12,11 +12,10 @@
 </p>
 
 ---
-<p align="center">
-  🌱 I'm a developer who loves building **AIoT systems**, exploring **cloud-native architecture**, and improving **user experiences** through thoughtful backend design.  
-👀 I’m currently interested in **on-device AI**, **real-time monitoring systems**, and **DevOps automation**.  
+
+🌱 AIoT 시스템을 만들고, 클라우드 아키텍처를 탐구하며, 사용자 경험을 고민하는 백엔드 개발자입니다.
+👀 최근에는 온디바이스 AI, 실시간 모니터링, DevOps 자동화에 관심이 많습니다.
 📌 I enjoy prototyping smart devices that actually help people. 
-</p>
 
 
 - 📍 전공과 관심: **AIoT**, **클라우드 인프라**
