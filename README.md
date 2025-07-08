@@ -1,6 +1,6 @@
 <!-- Intro -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7FBCD2&height=200&section=header&text=Hi,+I'm+Youngju&fontSize=40&fontAlignY=40&desc=기록하고+관찰하는+개발자입니다&descAlignY=65&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7FBCD2&height=200&section=header&text=Hi,+I'm+Youngju+Lee+👋&fontSize=40&fontAlignY=40&desc=&descAlignY=65&animation=twinkling" />
 
 <p align="center">
   <a href="https://velog.io/@0zoo02">
