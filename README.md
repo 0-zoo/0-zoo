@@ -20,7 +20,7 @@
 📌 I enjoy prototyping smart devices that actually help people. 
 
 
-- 📍 전공과 관심: **Mobile System Engineering**, **클라우드 인프라**
+- 📍 전공과 관심: **Mobile Systems Engineering**, **Cloud Infra**
 - 📓 평소엔 Velog에 프로젝트를 정리하고, 기억을 남깁니다.
 
 ---
@@ -50,7 +50,7 @@
 
 ---
 
-### 🎬 Projects
+### 🎬 Key Projects
 
 #### 🧴 [니모내모(TABA)](https://github.com/TABA-4th)
 > AI로 두피를 분석하고, 맞춤형 케어를 제안하는 스마트 두피 메이트  
@@ -61,7 +61,7 @@
 🪑 착석 감지 · 🎥 AI 자세 분석 · 🌡️ 온도 감시 · 🔔 FCM 알림
 
 #### 🧭 [FallAlertMap](https://github.com/0-zoo/FallAlertMap)
-> 낙상 위험 지역 실시간 알림 시스템  
+> 낙상 위험 지도 구축 및 실시간 알림 시스템  
 📍 지도 기반 위치 전송 · 🤸‍♀️ 시계열 AI 모델 적용 · 📡 실시간 백엔드 연동
 
 ---
